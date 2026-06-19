@@ -1,0 +1,42 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.conda/
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*~
