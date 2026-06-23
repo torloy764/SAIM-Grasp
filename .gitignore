@@ -40,3 +40,8 @@ venv/
 
 # Temp files
 *~
+
+# Unwanted project dirs
+backup-25页/
+IEEE/
+LNCS/
